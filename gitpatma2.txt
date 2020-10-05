@@ -1,2 +1,4 @@
 latihan buat file dari repo github di push ke repo lokal
 sudah berhasil push ke lokal. Sekarang diedit untuk dipush lagi ke repo github
+Tes Conflict.
+Teks berikut dibuat di lokal repo. 
